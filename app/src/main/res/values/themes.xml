@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema con fondo de pantalla del sistema; sin animaciones de ventana para que Inicio sea instantáneo -->
+    <style name="Theme.Lite" parent="@android:style/Theme.DeviceDefault.Wallpaper.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
